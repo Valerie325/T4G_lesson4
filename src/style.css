@@ -1,0 +1,32 @@
+nav{
+    background-color: rgb(240, 13, 176);padding: 20px;margin: 15px;
+}
+p{
+    color: rgb(12, 12, 12);
+    background-color: aquamarine;
+    margin: 30px;
+    padding: 10px;
+    font: size 30px;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    text-align: justify;
+}
+
+
+.vacation{
+    width: 30%;
+    border: 3px solid;
+    margin-bottom: 30pxb;
+
+}
+
+.vacationimage{
+    width: 100%;
+}
+.vacationcontainer{
+    display: flex;
+    flex-wrap: wrap ;
+}
+
